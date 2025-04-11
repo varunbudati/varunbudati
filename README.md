@@ -6,7 +6,7 @@
 - **Virginia Tech**, Blacksburg, Virginia
   - Bachelor of Science in Computer Science
   - Minor in Mathematics & Finance
-  - Aug 2023 – Present
+  - Aug 2023 – May 2027
 
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL, Java, C/C++, JavaScript, HTML/CSS, Matlab
