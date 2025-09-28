@@ -19,7 +19,7 @@ English, Hindi, Telugu, Sanskrit
 ## 📫 Contact Me
 - Email: varunsb@vt.edu
 - Phone: +1 (571)-830-0505
-- Website: [varunbudati.github.io](https://varunbudati.github.io)
+- Website: [varunbudati.com](https://varunbudati.com)
 - LinkedIn: [linkedin.com/in/varun-budati](https://www.linkedin.com/in/varun-budati)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech and finance!
