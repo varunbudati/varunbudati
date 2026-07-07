@@ -1,28 +1,27 @@
 # Varun Budati
 
-👋 Hello! I'm Varun, a Computer Science student at Virginia Tech with a passion for software development, finance, and research.
+# Hi, I'm Varun 👋
 
-## 🎓 Education
-- **Virginia Tech**, Blacksburg, Virginia
-  - Bachelor of Science in Computer Science
-  - Minor in Mathematics & Finance
-  - Aug 2023 – May 2027
+CS undergrad at **Virginia Tech** ('27 B.S. + '28 M.S.) with a minor in Math & Finance, focused on **quantitative research and trading** — market microstructure, optimal execution, and reinforcement learning.
 
-## 🛠 Skills
-- **Programming Languages**: Python, SQL, Java, C/C++, JavaScript, HTML/CSS, Matlab
-- **Tools & Technologies**: Pandas, Matplotlib, Git
-- **Soft Skills**: Research, Data Analysis, Problem-solving
+My core research question: *how do microstructure-level frictions in a single order propagate upward into systemic market risk — and how can execution and margin systems be designed to be robust to them?*
 
-## 🌐 Languages
-English, Hindi, Telugu, Sanskrit
+## 🔬 What I'm working on
 
-## 📫 Contact Me
-- Email: varunsb@vt.edu
-- Phone: +1 (571)-830-0505
-- Website: [varunbudati.com](https://varunbudati.com)
-- LinkedIn: [linkedin.com/in/varun-budati](https://www.linkedin.com/in/varun-budati)
+- **Optimal execution research** @ Dataism Lab for Quantitative Finance — Mixture-of-Experts framework over high-frequency limit order book data; extended Almgren-Chriss with an RL agent (working paper: *Order Execution for Cryptocurrency using Mixture of Experts*)
+- **[TailorMyResume](https://github.com/varunbudati/TailorMyResume)** — LLM-powered LaTeX resume tailoring app with live streaming, PDF preview, and one-page auto-condensing
+- **Sports betting & prediction market analytics** — CLV tracking, backtesting, and market-efficiency experiments
 
-Feel free to reach out if you'd like to collaborate on a project or just chat about tech and finance!
+## 🛠️ Toolbox
+
+`Python` `SQL` `Java` `C` · `PyTorch` `NumPy` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Streamlit` · `Git` `Docker` `AWS` `Linux`
+
+Stochastic control · Optimal execution · Monte Carlo methods · Regime clustering · Market microstructure
+
+## 📫 Reach me
+
+[varunbudati.com](https://varunbudati.com) · [LinkedIn](https://linkedin.com/in/varun-budati) · varunsb@vt.edu
+
 
 <!---
 varunbudati/varunbudati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
