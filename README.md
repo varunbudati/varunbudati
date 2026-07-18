@@ -7,9 +7,9 @@ CS undergrad at **Virginia Tech** ('27 B.S. + '28 M.S.) with a minor in Math & F
 ## What I'm working on
 
 - **Optimal execution research** @ Dataism Lab for Quantitative Finance: Mixture-of-Experts framework over high-frequency limit order book data, extending Almgren-Chriss with an RL agent (working paper: *Order Execution for Cryptocurrency using Mixture of Experts*)
-- **[Almgren-Chriss + Q-learning execution engine](https://github.com/varunbudati/REPO)**: RL execution agent benchmarked against the classic optimal schedule
-- **[Black-Scholes pricer with Greeks](https://github.com/varunbudati/REPO)**: option pricing and full Greeks surface
-- **[MACD/RSI momentum strategy](https://github.com/varunbudati/REPO)**: signal backtesting with performance metrics
+- **[Almgren-Chriss + Q-learning execution engine](https://github.com/varunbudati/Almgren-Chriss-model)**: RL execution agent benchmarked against the classic optimal schedule
+- **[Black-Scholes pricer with Greeks](https://github.com/varunbudati/Black-Sholes-Model)**: option pricing and full Greeks surface
+- **[MACD/RSI momentum strategy](https://github.com/varunbudati/MACD-Trading-Strategy-Visualizer)**: signal backtesting with performance metrics
 - **[TailorMyResume](https://github.com/varunbudati/TailorMyResume)**: LLM-powered LaTeX resume tailoring app with live streaming, PDF preview, and one-page auto-condensing
 
 ## Toolbox
